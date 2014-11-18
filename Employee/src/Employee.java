@@ -10,7 +10,7 @@ public class Employee {
 	 * Classe Employee
 	 * conté dues variables privades: myName i mySalary
 	 */
-		   private String myName;
+		   private String myName2222222;
 		   private double mySalary;
 /**
  * el constructor té aquests dos paràmetres:
